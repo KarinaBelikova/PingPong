@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "45MXSYWm6iaO4dqypwSUIO68ydq8cCEYb5dHbTy2BiM=",
+  "Source": "PingPong.API",
+  "BasePath": "_content/PingPong.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

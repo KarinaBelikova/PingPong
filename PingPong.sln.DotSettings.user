@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9548341f_002D41e4_002D47fd_002D9f4e_002Da85734c919c7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from PingPongTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;DC783AF8-1A84-4BD7-B3A3-FBFE23045325/f:PingPongTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb9ff36e_002D6b9c_002D4b23_002D8465_002D842945e75e83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestRetryClient_SuccessfulCalls" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DC783AF8-1A84-4BD7-B3A3-FBFE23045325::net8.0::RetryClient.Tests.RetryClientTests.TestRetryClient_SuccessfulCalls&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec094dc3_002D5f70_002D439a_002D9205_002Dea5f7524544f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestRetryClient_SuccessfulCalls #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;DC783AF8-1A84-4BD7-B3A3-FBFE23045325/f:PingPongTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
